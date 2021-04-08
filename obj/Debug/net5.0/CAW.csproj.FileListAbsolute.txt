@@ -1,0 +1,15 @@
+/Users/jujinhyeon/git/CAW/bin/Debug/net5.0/CAW.deps.json
+/Users/jujinhyeon/git/CAW/bin/Debug/net5.0/CAW.runtimeconfig.json
+/Users/jujinhyeon/git/CAW/bin/Debug/net5.0/CAW.runtimeconfig.dev.json
+/Users/jujinhyeon/git/CAW/bin/Debug/net5.0/CAW.dll
+/Users/jujinhyeon/git/CAW/bin/Debug/net5.0/ref/CAW.dll
+/Users/jujinhyeon/git/CAW/bin/Debug/net5.0/CAW.pdb
+/Users/jujinhyeon/git/CAW/obj/Debug/net5.0/CAW.csprojAssemblyReference.cache
+/Users/jujinhyeon/git/CAW/obj/Debug/net5.0/CAW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jujinhyeon/git/CAW/obj/Debug/net5.0/CAW.AssemblyInfoInputs.cache
+/Users/jujinhyeon/git/CAW/obj/Debug/net5.0/CAW.AssemblyInfo.cs
+/Users/jujinhyeon/git/CAW/obj/Debug/net5.0/CAW.csproj.CoreCompileInputs.cache
+/Users/jujinhyeon/git/CAW/obj/Debug/net5.0/CAW.dll
+/Users/jujinhyeon/git/CAW/obj/Debug/net5.0/ref/CAW.dll
+/Users/jujinhyeon/git/CAW/obj/Debug/net5.0/CAW.pdb
+/Users/jujinhyeon/git/CAW/obj/Debug/net5.0/CAW.genruntimeconfig.cache
